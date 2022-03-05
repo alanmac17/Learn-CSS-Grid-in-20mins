@@ -1,0 +1,15 @@
+body {
+    background: url(https://images.unsplash.com/photo-1469050624972-f03b8678e363?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    margin: 30px 50px;
+    line-height: 1.4;
+}
+
+.wrapper    {
+    display: grid;
+    gap: 15px;
+}
+
+footer {
+    margin-top: 2rem;
+    display: block;
+}
